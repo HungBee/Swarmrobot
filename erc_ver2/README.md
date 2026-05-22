@@ -1,7 +1,5 @@
-## Results
-|Method| Pentagon shape | V-shape |
-|:---:| :---:      |     :---:  |
-|ERC| <img src="results/gif_erc_shape1.gif" alt="" width="100%"/> | <img src="results/gif_erc_shape2.gif" alt="" width="100%"/> |
-|BC|<img src="results/gif_bc_shape1.gif" alt="" width="100%"/> | <img src="results/gif_bc_shape2.gif" alt="" width="100%"/> |
+## Guide
+1. Chạy file main.py
+2. Chạy file animation.py để xem mô phỏng / chạy file visualization.py để xem data thu được
 
 
